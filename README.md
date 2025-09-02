@@ -1,17 +1,17 @@
 
 ## 📋 Instruções de Entrega
   ### Arquivo .py
-1. **Parte 1:**  
+ **Parte 1:**  
    - Exercícios iniciais com Individual Household Electric Power Consumption
      
 
-2. **Parte 2:**  
+ **Parte 2:**  
    - Exercicios adicionais no dataset inicial
 
-3. **Parte 3:**  
+ **Parte 3:**  
    - Novo dataset Appliances Energy Prediction
 
-4. **Parte 4:**  
+ **Parte 4:**  
    - Exercícios no Orange Data Mining  
 
 ---

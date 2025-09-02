@@ -1,6 +1,6 @@
 
 ## 📋 Instruções de Entrega
-  ### Arquivo .py
+  ### Arquivo .ipynb
  **Parte 1:**  
    - Exercícios iniciais com Individual Household Electric Power Consumption
      

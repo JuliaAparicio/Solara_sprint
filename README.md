@@ -1,9 +1,6 @@
-# 📦 Data Science e Machine Learning no Python e Orange Data Mining
-
----
 
 ## 📋 Instruções de Entrega
-
+  ### Arquivo .py
 1. **Parte 1:**  
    - Exercícios iniciais com Individual Household Electric Power Consumption
      
